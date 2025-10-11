@@ -29,6 +29,7 @@ class Program
                 case "3":
                     activity = new ReflectingActivity();
                     break;
+                // Exceeding: Adding another kind of activity
                 case "4":
                     activity = new VisualizationActivity();
                     break;

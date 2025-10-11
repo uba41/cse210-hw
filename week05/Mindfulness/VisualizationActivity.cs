@@ -1,3 +1,4 @@
+// Exceeding: Adding another kind of activity
 class VisualizationActivity : Activity
 {
     private List<string> _visualizations;
